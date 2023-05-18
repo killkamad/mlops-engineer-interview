@@ -8,7 +8,7 @@ You should create 1 endpoint that accepts relevant input and returns the inferen
 
 ### How to share your results?
 - [ ] Fork this repository and create your own branch to work on.
-- [ ] Once you are ready, create a pull request with your code.
+- [ ] Once you are ready, send a link to the project.
 
 ### How will the assessment take place?
 - [ ] Write at least one test.
