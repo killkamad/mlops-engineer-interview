@@ -12,7 +12,7 @@ You should create 1 endpoint that accepts relevant input and returns the inferen
 
 ### How will the assessment take place?
 - [ ] Write at least one test.
-- [ ] Use clean code principles.
+- [ ] Сode is clear and readable.
 - [ ] Build and push image with application to Docker Hub.
 - [ ] No crashes or bugs.
 
