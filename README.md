@@ -19,5 +19,5 @@ You should create 1 endpoint that accepts relevant input and returns the inferen
 ### Suggestions to Make Your Project Stand Out!
 - [+] Use DVC or other solution for versioning models.
 - [+] Work towards pylint score of 10/10.
-- [+] Clear documentation of the API, you can use Swagger or any other format. (http://127.0.0.1:7001/docs)
+- [+] Clear documentation of the API, you can use Swagger or any other format. (http://127.0.0.1:7005/docs)
 - [-] Set Up CI/CD using Github Actions and Render Cloud or any other solution.
