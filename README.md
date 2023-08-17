@@ -13,7 +13,7 @@ You should create 1 endpoint that accepts relevant input and returns the inferen
 ### How will the assessment take place?
 - [+] Write at least one test.
 - [+] Code is clear and readable.
-- [+] Build and push image with application to Docker Hub.
+- [+] Build and push image with application to Docker Hub. (https://hub.docker.com/r/killkamad/ml-kirill-task)
 - [+] No crashes or bugs.
 
 ### Suggestions to Make Your Project Stand Out!
