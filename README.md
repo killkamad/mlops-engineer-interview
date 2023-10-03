@@ -7,17 +7,17 @@ Your task is to create a REST API in python that serves the model and allows for
 You should create 1 endpoint that accepts relevant input and returns the inference results to the client.
 
 ### How to share your results?
-- [ ] Fork this repository and create your own branch to work on.
-- [ ] Once you are ready, create a pull request with your code.
+- [+] Fork this repository and create your own branch to work on.
+- [+] Once you are ready, create a pull request with your code.
 
 ### How will the assessment take place?
-- [ ] Write at least one test.
-- [ ] Сode is clear and readable.
-- [ ] Build and push image with application to Docker Hub.
-- [ ] No crashes or bugs.
+- [+] Write at least one test.
+- [+] Code is clear and readable.
+- [+] Build and push image with application to Docker Hub. (https://hub.docker.com/r/killkamad/ml-kirill-task)
+- [+] No crashes or bugs.
 
 ### Suggestions to Make Your Project Stand Out!
-- [ ] Use DVC or other solution for versioning models.
-- [ ] Work towards pylint score of 10/10.
-- [ ] Clear documentation of the API, you can use Swagger or any other format.
-- [ ] Set Up CI/CD using Github Actions and Render Cloud or any other solution.
+- [+] Use DVC or other solution for versioning models.
+- [+] Work towards pylint score of 10/10.
+- [+] Clear documentation of the API, you can use Swagger or any other format. (http://127.0.0.1:7005/docs)
+- [-] Set Up CI/CD using Github Actions and Render Cloud or any other solution.
